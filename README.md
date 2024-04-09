@@ -8,7 +8,7 @@
 https://weather-app-sameer.vercel.app/
  
  #### Github link
- 
+ https://github.com/sameervats18/WeatherApp.git
  
 ### Features of the project.
 
